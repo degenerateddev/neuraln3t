@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Rust**
 
-- 👨‍💻 All of my projects are available at [tim-arnold.tech](tim-arnold.tech)
+- 👨‍💻 All of my projects are available at [tim-arnold.tech](https://www.tim-arnold.tech)
 
 - 💬 Ask me about **SvelteKit, Django,**
 
