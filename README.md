@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">I'm a passionate developer from germany. Mainly doing web development but also doing other stuff whenever I feel like it :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neuraln3t&label=Profile%20views&color=0e75b6&style=flat" alt="neuraln3t" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=neuraln3t&label=Profile%20views&color=0e75b6&style=flat" alt="neuraln3t" /> </p>
 
 - 🔭 I’m currently working on **Abyssal Writings Blog**
 
