@@ -4,7 +4,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neuraln3t&label=Profile%20views&color=0e75b6&style=flat" alt="neuraln3t" />
   <img src="https://img.shields.io/badge/Tech%20Stack-PTSD-blue?style=for-the-badge&logo=appveyor" alt="techstack" />
-  <img src="" />
+  <img src="https://img.shields.io/badge/Backend-Django-brightgreen?style=for-the-badge&logo=appveyor" alt="backend" />
+  <img src="https://img.shields.io/badge/CSS-Tailwind-blue?style=for-the-badge&logo=appveyor" alt="css" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-blue?style=for-the-badge&logo=appveyor" alt="db" />
+  <img src="https://img.shields.io/badge/Frontend-SvelteKit-orange?style=for-the-badge&logo=appveyor" alt="frontend" />
 </p>
 
 - 🔭 I’m currently working on **Abyssal Writings Blog**
