@@ -3,7 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neuraln3t&label=Profile%20views&color=0e75b6&style=flat" alt="neuraln3t" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-PTSD-blue" alt="techstack" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-PTSD-blue?style=for-the-badge&logo=appveyor" alt="techstack" />
+  <img src="" />
 </p>
 
 - 🔭 I’m currently working on **Abyssal Writings Blog**
