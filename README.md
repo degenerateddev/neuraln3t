@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Abyssal Writings Blog**
 
-- 🌱 I’m currently learning **React, Rust**
+- 🌱 I’m currently learning **x86 Assembly, React, Rust, Go**
 
 - 👨‍💻 All of my projects are available at [tim-arnold.tech](tim-arnold.tech)
 
-- 💬 Ask me about **SvelteKit, Django,**
+- 💬 Ask me about **SvelteKit, Django, Python**
 
 - 📫 How to reach me **freelancing.degeneracy@gmail.com**
 
